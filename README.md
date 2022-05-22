@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Alexey Bragin
+- 👀 I’m interested in studying web development
+- 🌱 I’m currently learning http, css, js, linux
